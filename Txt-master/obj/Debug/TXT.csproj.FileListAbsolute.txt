@@ -1,0 +1,8 @@
+C:\Users\Orozco\Documents\BD\TXT\TXT\bin\Debug\TXT.exe.config
+C:\Users\Orozco\Documents\BD\TXT\TXT\bin\Debug\TXT.exe
+C:\Users\Orozco\Documents\BD\TXT\TXT\bin\Debug\TXT.pdb
+C:\Users\Orozco\Documents\BD\TXT\TXT\obj\Debug\TXT.csproj.AssemblyReference.cache
+C:\Users\Orozco\Documents\BD\TXT\TXT\obj\Debug\TXT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orozco\Documents\BD\TXT\TXT\obj\Debug\TXT.csproj.CoreCompileInputs.cache
+C:\Users\Orozco\Documents\BD\TXT\TXT\obj\Debug\TXT.exe
+C:\Users\Orozco\Documents\BD\TXT\TXT\obj\Debug\TXT.pdb
